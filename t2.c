@@ -7,7 +7,7 @@ int main()
     printf("ÇëÊäÈë½ð¶î£º");
     scanf("%d", &price);
 
-    int change = 90 - price;
+    int change = 80 - price;
 
     printf("ÕÒÄú%dÔª¡£\n", change);
 
